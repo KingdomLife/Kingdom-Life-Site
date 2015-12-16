@@ -1,0 +1,24 @@
+.jumbotron-section-1 {
+    padding-top: 70px !important;
+}
+
+.jumbotron-section-1-bg {
+    background: url(/assets/imgs/castle.png)no-repeat center center;
+    height: 768px;
+    background-size: 100% 100%;
+    background-attachment: ;
+}
+
+.introduction {
+    text-align: center;
+    vertical-align: middle;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.name {
+    font-family: "custom-headerfont", sans-serif;
+}
+
+.introduction p {
+    font-weight: bold;
+}
