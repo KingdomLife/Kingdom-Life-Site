@@ -1,4 +1,6 @@
 # KingdomLife-Site
 Website for the Minecraft Server Kingdom Life
-
-Will be fixed. Screwd someting up
+Under Development
+Plans
+PUT ALL OF THE RIGHT INFORMATION IN
+FIX EVERTHING
