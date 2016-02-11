@@ -24,7 +24,6 @@ img {
 
 .jumbotron {
     margin-bottom: 100px;
-    background-image: url(/assets/imgs/castle.png);
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
