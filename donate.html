@@ -8,6 +8,7 @@
     <meta name="author" content="ewm2000">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="render.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" type="image/jpg" href="fav.jpg" />
     <title>Kingdom Life</title>
     <link href="css/king.css" rel="stylesheet" type="text/css">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -46,19 +47,29 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Kingdom Life RPG</a>
+                <a class="navbar-brand" href="index.html">Kingdom Life MMORPG</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="about_us.html">About Us</a></li>
-                    <li><a href="staff.html">Staff</a></li>
-                    <li><a href="map/index.html">Map</a></li>
-                    <li><a href="gallery/gallery.html">Gallery</a></li>
+                    <li class="dropdown">
+                        <a href="features.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Server/Staff Related <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="about_us.html">About us</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="staff.html">Staff</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="donate.html">Donate</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="map/index.html">Map</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="gallery/gallery.html">Gallery</a></li>
+                        </ul>
+                    </li>
                     <li><a href="about_us.html">Wiki(Doesnt Work)</a></li>
-                    <li><a href="donate.html">Donations</a></li>
+                    <li><a href="https://github.com/KingdomLife/KingdomLife-API">The API</a></li>
                     <li class="dropdown">
                         <a href="features.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Features <span class="caret"></span></a>
                         <ul class="dropdown-menu">
@@ -77,20 +88,11 @@
             </div>
             <!-- /.navbar-collapse -->
         </div>
-
         <!-- /.container-fluid -->
     </nav>
-
-    <center>
-        <div class="jumbotron bg" style="background-image: url(/assets/imgs/castle.png);">
-            <div class="container" style="height: 400px;">
-
-                <h1 style="color:white;">Kingdom Life</h1>
-                <p style="color:white;">Donations</p>
-            </div>
-        </div>
-    </center>
-    <h1>THERE WILL BE SO MUCH MORE HERE. TIME WILL PROVIDE MORE ON THIS PAGE. THIS PAGE IS MEANT FOR THE DONATIONS. </h1>
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe src="http://kingdomlifemmo.minecraftmarket.com" frameborder="0" seamless>(Support for older browsers)</iframe>
+    </div>
 </body>
 
 </html>
