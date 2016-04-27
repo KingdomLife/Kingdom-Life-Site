@@ -1,0 +1,32 @@
+<rss xmlns:blogChannel="http://backend.userland.com/blogChannelModule" version="2.0">
+    <channel>
+        <title>Kingdom Life MMO</title>
+        <link>http://feeds.rapidfeeds.com/82233/</link>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="via" href="http://feeds.rapidfeeds.com/82233/" type="application/rss+xml" />
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.rapidfeeds.com/82233/" type="application/rss+xml" />
+        <description>
+            <![CDATA[ This is the News feed for Kingdom Life ]]>
+        </description>
+        <pubDate>Wed, 27 Apr 2016 08:00:00 EST</pubDate>
+        <lastBuildDate>Wed, 27 Apr 2016 09:27:04 EST</lastBuildDate>
+        <docs>http://backend.userland.com/rss</docs>
+        <generator>RapidFeeds v2.0 -- http://www.rapidfeeds.com</generator>
+        <language>en</language>
+        <item>
+            <title>Second Post</title>
+            <description>This is second post</description>
+            <link>http://kingdomlifemmo.com/news/2016</link>
+            <guid isPermaLink="true">http://feeds.rapidfeeds.com/?iid4ct=7549167</guid>
+            <pubDate>Wed, 27 Apr 2016 08:00:00 EST</pubDate>
+        </item>
+        <item>
+            <title>First Post</title>
+            <description>
+                Welcome to our site. We will be fixing it up from time to time so be sure to stick around.
+            </description>
+            <link>https://kingdomlifemmo.com/news/2016</link>
+            <guid isPermaLink="true">http://feeds.rapidfeeds.com/?iid4ct=7549166</guid>
+            <pubDate>Wed, 27 Apr 2016 12:00:00 EST</pubDate>
+        </item>
+    </channel>
+</rss>
